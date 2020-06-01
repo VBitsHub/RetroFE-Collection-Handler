@@ -10,8 +10,7 @@ Double-click the installer and follow the installation directions.
 Version History
 -------------------------------------------
 
-6/1/2020
-v1.32
+v1.32 (6/1/2020)
  - Expanded the Collection drop down menu and removed the "Use Collection" Button
  - Add the ability to Save the Path for the CoinOPS collection, so you do not have to select it each startup.
  - Added the ability to save alternative rom paths for collections.
