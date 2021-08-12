@@ -4,7 +4,8 @@
 -------------------------------------------
 How to install
 -------------------------------------------
-Double-click the installer and follow the installation directions.
+Double-click the installer and follow the installation directions. You may also need to download .NET Framework 4.5.2. 
+https://www.microsoft.com/en-us/download/details.aspx?id=42642
 
 -------------------------------------------
 Version History
